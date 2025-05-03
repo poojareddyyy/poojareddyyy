@@ -29,8 +29,8 @@ I’m actively looking for:
 - **Collaborations** on open-source or innovative projects  
 - **Learning** new frameworks and tools to expand my skills  
 
-📫 **Let’s connect!**  
--Linkedin: www.linkedin.com/in/pooja-reddy-a96126360
--GitHub: github.com/poojareddyyy
--Email: poojareddy0421@gmail.com
+📫 **Let’s connect!**    
+LinkedIn: www.linkedin.com/in/pooja-reddy-a96126360  
+GitHub: https://github.com/poojareddyyy  
+Email: poojareddy0421@gmail.com  
 
