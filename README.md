@@ -4,8 +4,8 @@
 ### **About Me**  
 I’m a **2nd-year Computer Science & Engineering (AI) undergraduate** at **Dayananda Sagar Academy of Technology and Management**. Passionate about programming and problem-solving, I enjoy working on projects that challenge me to learn and grow.  
 
-🔹 **Skills:** Python, JavaScript, CSS  
-🔹 **Knowledge Areas:** Computer Design, Operating Systems, DBMS  
+🔹 **Skills:** C, C++, HTML, JavaScript, CSS  
+🔹 **Knowledge Areas:** Computer Design, Operating Systems  
 🔹 **Eager to explore** new technologies and contribute to meaningful projects!  
 
 
